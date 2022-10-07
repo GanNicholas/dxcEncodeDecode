@@ -11,7 +11,6 @@
    <br/>
     ```
     git clone https://github.com/GanNicholas/dxcEncodeDecode.git
-
     ```
 3) Change directory into the cloned repo
 4) Build the java files
