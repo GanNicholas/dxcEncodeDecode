@@ -12,11 +12,8 @@
     ```
     javac .\EncodeDecodeMain.java .\EncodeDecodeRunner.java 
     ```
-   <br/>
-
 3) Run the class files
    <br/>
     ```
     java EncodeDecodeMain
     ```
-   <br/>
